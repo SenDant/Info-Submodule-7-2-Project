@@ -11,6 +11,8 @@ Provo, UT 84602, Estados Unidos
 5. Link to Google Maps location
 http://google.com/maps/place/Universidad+Brigham+Young/@40.2519496,-111.6488832,16.75z/data=!4m6!3m5!1s0x874d90bc4aa0b68d:0xbf3eb3a3f30fdc4c!8m2!3d40.2518435!4d-111.6493156!16zL20vMGwydGs?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D
 
+
+
 Tec de Monterrey:
 Univercidad de Dante
 1. Logo or campus image
@@ -23,6 +25,8 @@ Tecnológico de Monterrey
 Av. Eugenio Garza Sada 2501 Sur, Tecnologico, Distrito Tec, 64700 Monterrey, N.L.
 5. Link to Google Maps location
 https://www.google.com/maps/place/Tecnol%C3%B3gico+de+Monterrey/@25.6515649,-100.28954,17z/data=!3m1!4b1!4m6!3m5!1s0x8662bfcee61c0709:0xab5b4cc298e6fe08!8m2!3d25.6515649!4d-100.28954!16zL20vMDF2cjcy?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D
+
+
 
 elpac:
 Univecidad de Jazmin
