@@ -32,18 +32,22 @@ body {
  }
 
 body {
-   height:10000px;
+   height:800px;
 }
 #headerlogo {
    padding-left: 10px;
 }
 .sugoma {
    color: white;
-   height: 90%;
-   width: 30%;
+   height: 95%;
+   width: 20%;
    background-color: #002A5C;
    border-radius: 1rem;
    padding: 0.5rem;
+   border-bottom: 1px solid black;
+}
+.sugoma:hover {
+   background-color: #001C3D;
 }
 #box{
    height: 700px;
@@ -98,4 +102,11 @@ footer{
    object-fit: cover;
    border-radius: 1rem;
    border: 2px solid white;
+}
+a {
+    color: #9CC2F0;
+}
+a:hover {
+    text-decoration: none;
+    color: cyan;
 }
